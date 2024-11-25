@@ -4,3 +4,4 @@ function fun() {
       baseUrl: karate.properties['karate.url'] || 'https://pokeapi.co/api/v2/'
     }
   }
+  
